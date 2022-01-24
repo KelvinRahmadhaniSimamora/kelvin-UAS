@@ -1,0 +1,329 @@
+{
+  "headers": [
+    {
+      "top": [
+        {
+          "left": [
+            {
+              "searcbar": [
+                {
+                  "placeholder": "cari disini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "mid": {
+            "image": "shoppers",
+            "url": "null"
+          }
+        },
+        {
+          "right": [
+            {
+              "icon": "profil",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "icon": "like",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "icon": "keranjang",
+              "url": "https://preview.colorlib.com/theme/shoppers/cart.html",
+
+              "isikeranjang": [
+                {
+                  "image": "https://preview.colorlib.com/theme/shoppers/images/xcloth_1.jpg.pagespeed.ic.YTSZBlyJV3.webp",
+                  "produk": "Top Up T-Shirt",
+                  "price": "49.00",
+                  "qty": 1,
+                  "total": "49.00",
+                  "remove": "https://preview.colorlib.com/theme/shoppers/cart.html#"
+                },
+                {
+                  "image": "https://preview.colorlib.com/theme/shoppers/images/xcloth_2.jpg.pagespeed.ic.iVLpDnI6ho.webp",
+                  "produk": "Polo Shirt",
+                  "price": "49.00",
+                  "qty": 1,
+                  "total": "49.00",
+                  "remove": "https://preview.colorlib.com/theme/shoppers/cart.html#"
+                },
+                {
+                  "subtotal": [
+                    {
+                      "judul": "cardtotals",
+                      "text": "subtotal",
+                      "price": "230.00",
+                      "total": "230.00",
+                      "button": "proced to checkout"
+                    }
+                  ]
+                },
+                {
+                  "coupon": [
+                    {
+                      "judul": "coupon",
+                      "text": "Enter your coupon code if you have one.",
+                      "placeholder": "coupon kode",
+                      "button": "apply coupon"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "navbar": [
+        {
+          "text": "home",
+          "url": "https://preview.colorlib.com/theme/shoppers/index.html",
+          "isihome": [
+            {
+              "text": "menu one",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "menu two",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "menu three",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "sub menu",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#",
+              "isisubmenu": [
+                {
+                  "text": "menu one",
+                  "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+                },
+                {
+                  "text": "menu two",
+                  "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+                },
+                {
+                  "text": "menu three",
+                  "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "about",
+          "url": "https://preview.colorlib.com/theme/shoppers/about.html",
+          "isiabout": [
+            {
+              "text": "menu one",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "menu two",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "menu three",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            }
+          ]
+        },
+
+        {
+          "text": "shop",
+          "url": "https://preview.colorlib.com/theme/shoppers/shop.html"
+        },
+        {
+          "text": "catalogue",
+          "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+        },
+        {
+          "text": "new arrivals",
+          "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+        },
+        {
+          "text": "contact",
+          "url": "https://preview.colorlib.com/theme/shoppers/contact.html"
+        }
+      ]
+    }
+  ],
+  "bodyabout": [
+    {
+      "breadcrumb": [
+        {
+          "text": "Home",
+          "url": "https://preview.colorlib.com/theme/shoppers/"
+        },
+        {
+          "text": "about"
+        }
+      ]
+    },
+    {
+      "started": [
+        {
+          "kiri": {
+            "img": "https://preview.colorlib.com/theme/shoppers/images/xblog_1.jpg.pagespeed.ic.Skqn_HuXGv.webp",
+            "attr": {
+              "urlVideo": "https://vimeo.com/channels/staffpicks/93951774"
+            }
+          }
+        },
+        {
+          "kanan": {
+            "title": "How We Started",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam cumque recusandae, laudantium minima repellendus."
+          }
+        }
+      ]
+    },
+    {
+      "team": [
+        {
+          "img": "https://preview.colorlib.com/theme/shoppers/images/xperson_1.jpg.pagespeed.ic.PisLoQFKY8.webp",
+          "nama": "Elizabeth Graham",
+          "pekerjaan": "CEO/CO-FOUNDER",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta."
+        },
+        {
+          "img": "https://preview.colorlib.com/theme/shoppers/images/xperson_2.jpg.pagespeed.ic.-cRz21XtFO.webp",
+          "nama": "Jennifer Greive",
+          "pekerjaan": "CEO/CO-FOUNDER",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta."
+        },
+        {
+          "img": "https://preview.colorlib.com/theme/shoppers/images/xperson_3.jpg.pagespeed.ic.-gXstUNfnO.webp",
+          "nama": "Patrick Marx",
+          "pekerjaan": "MARKETING",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta."
+        },
+        {
+          "img": "https://preview.colorlib.com/theme/shoppers/images/xperson_4.jpg.pagespeed.ic.U-jal2fabI.webp",
+          "nama": "Mike Coolbert",
+          "pekerjaan": "SALES MANAGER",
+          "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae aut minima nihil sit distinctio recusandae doloribus ut fugit officia voluptate soluta."
+        }
+      ]
+    },
+    {
+      "keunggulan": [
+        {
+          "judul": "FREE SHIPPING",
+          "icon": "truck",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla."
+        },
+        {
+          "judul": "FREE RETURNS",
+          "icon": "kembali",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla."
+        },
+        {
+          "judul": "CUSTOMER SUPPORT",
+          "icon": "tandatanya",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla."
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "top": [
+        {
+          "left navigation": [
+            {
+              "text": "sell online",
+              "Url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Featurs",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Shopping card",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Store Builder",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Mobile Comerce",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Dropshiping",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Website Development",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Point Of sale",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Hardware",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            },
+            {
+              "text": "Software",
+              "url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+            }
+          ]
+        },
+        {
+          "down": [
+            {
+              "down promo": [
+                {
+                  "image": "sepatu",
+                  "Url": "https://preview.colorlib.com/theme/shoppers/images/xhero_1.jpg.pagespeed.ic.6alHHFzIKu.webp"
+                },
+                {
+                  "text": "Finding Your Perfect Shoes",
+                  "Url": "https://preview.colorlib.com/theme/shoppers/index.html#"
+                },
+                {
+                  "text": "Promo From nuary 15-25,2019"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "right": [
+        {
+          "right contact info": [
+            {
+              "text": "203 Fake St. Mountain View, San Francisco, California, USA",
+              "icon": "lokasi"
+            },
+            {
+              "icon": "telepon",
+              "Url": "tel://23923929210"
+            },
+            {
+              "icon": "email",
+              "text": "emailaddress@domain.com"
+            },
+            {
+              "text": "suscribe",
+              "place holder": "email",
+              "button": "send"
+            },
+            {
+              "text": "Copyright ©2022 All rights reserved | This template is made with  by Colorlib"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
